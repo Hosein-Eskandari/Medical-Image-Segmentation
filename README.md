@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="assets/head image.png" alt="Medical Image Segmentation" width="100٪"/>
+  <img src="assets/segmentation_output.png" width="100%">
 </p>
 
 ---
