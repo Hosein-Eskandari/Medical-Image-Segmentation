@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="assets/head-image.png" alt="Medical Image Segmentation" width="600"/>
+  <img src="assets/head image.png" alt="Medical Image Segmentation" width="600"/>
 </p>
 
 ---
@@ -13,5 +13,5 @@
 ## 🧠 Segmentation Demo
 
 <p align="center">
-  <img src="assets/segmentation.gif" alt="Segmentation Demo" width="500"/>
+  <img src="assets/animation.gif" alt="Segmentation Demo" width="500"/>
 </p>
