@@ -15,3 +15,7 @@
 <p align="center">
   <img src="assets/animation.gif" alt="Segmentation Demo" width="100٪"/>
 </p>
+
+<p align="center">
+  <img src="assets/animation.gif" alt="Segmentation Demo" width="100%">
+</p>
